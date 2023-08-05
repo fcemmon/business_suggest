@@ -1,8 +1,6 @@
 1. About Upwork
-
 - URL
 https://upwork.com
-
 - Description
 Upwork is a global freelancing platform where businesses and independent professionals connect and collaborate remotely.
 Many companies find remote engineers for their upcoming projects then make the contract via upwork and go ahead with the contract.
